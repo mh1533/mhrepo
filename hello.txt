@@ -1,1 +1,2 @@
 hello world
+git push -u origin mastergit push -u origin master!
